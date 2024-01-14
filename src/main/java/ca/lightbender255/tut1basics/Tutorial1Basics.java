@@ -1,4 +1,4 @@
-package com.mcjty.tut1basics;
+package ca.lightbender255.tut1basics;
 
 import com.mojang.logging.LogUtils;
 import net.minecraft.client.Minecraft;
